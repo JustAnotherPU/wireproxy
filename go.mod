@@ -22,3 +22,5 @@ require (
 	gvisor.dev/gvisor v0.0.0-20250503011706-39ed1f5ac29c // indirect
 	kernel.org/pub/linux/libs/security/libcap/psx v1.2.77 // indirect
 )
+
+replace golang.zx2c4.com/wireguard => github.com/JustAnotherPU/wireguard-go v0.0.0-20261108050311-2a38e13930f2
