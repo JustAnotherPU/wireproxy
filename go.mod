@@ -23,4 +23,4 @@ require (
 	kernel.org/pub/linux/libs/security/libcap/psx v1.2.77 // indirect
 )
 
-replace golang.zx2c4.com/wireguard => ../wireguard-go-src
+replace golang.zx2c4.com/wireguard => github.com/JustAnotherPU/wireguard-go v0.0.0-20261108040637-4c208941dfb3

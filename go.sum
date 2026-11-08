@@ -1,3 +1,5 @@
+github.com/JustAnotherPU/wireguard-go v0.0.0-20261108040637-4c208941dfb3 h1:GEyxbI31nzEs8KsxlmDUSTa9UZ9fOSFJx0Y0hAFLjMY=
+github.com/JustAnotherPU/wireguard-go v0.0.0-20261108040637-4c208941dfb3/go.mod h1:rpwXGsirqLqN2L0JDJQlwOboGHmptD5ZD6T2VmcqhTw=
 github.com/MakeNowJust/heredoc/v2 v2.0.1 h1:rlCHh70XXXv7toz95ajQWOWQnN4WNLt0TdpZYIR/J6A=
 github.com/MakeNowJust/heredoc/v2 v2.0.1/go.mod h1:6/2Abh5s+hc3g9nbWLe9ObDIOhaRrqsyY9MWy+4JdRM=
 github.com/akamensky/argparse v1.4.0 h1:YGzvsTqCvbEZhL8zZu2AiA5nq805NZh75JNj4ajn1xc=
